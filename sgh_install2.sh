@@ -1,10 +1,3 @@
-#!/bin/bash
-
-# ------------------------------------------------------------
-# SGH install script: sgh_isntall.sh - version: 20230322_1740
-# For the latest version visit: https://github.com/sajtosb/sgh
-# ------------------------------------------------------------
-
 # Enlarge swap file to 1024 MB
 sudo sed -i 's/CONF_SWAPSIZE=.*$/CONF_SWAPSIZE=1024/g' /etc/dphys-swapfile
 sudo /etc/init.d/dphys-swapfile restart
