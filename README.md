@@ -25,7 +25,7 @@ Főbb részek:
 
 Igyekeztem a már rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
 
-**Csatolmányok jegyzéke**
+**Csatolmányok jegyzéke:**
 
 | Sorszám | Tartalom |
 | --- | --- |
