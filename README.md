@@ -17,11 +17,11 @@ Főbb részek:
 * Vízpumpa
 
 **Érzékelők:**
-* BME280
-* BME680
-* CCS811
-* TSL2591
-* STEMMA Soil sensor (x2)
+* Adafruit BME280
+* Adafruit BME680
+* Adafruit CCS811
+* Adafruit TSL2591
+* Adafruit STEMMA Soil sensor (x2)
 
 Igyekeztem a már rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
 
