@@ -2,6 +2,8 @@
 
 Ez a projekt egy Raspberry Pi és Python alapú "okos" üvegház megvalósítását írja le, amelyet egyetemi szakdolgozatként készítek.
 
+![Az elkészült modell.](https://github.com/sajtosb/sgh/blob/main/IMG_20230418_150241.jpg)
+
 Főbb részek:
   1. Hardverek bekötése
   2. Operációs rendszer telepítése és beállítása
