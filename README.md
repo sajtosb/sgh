@@ -11,19 +11,20 @@ Főbb részek:
   4. Adatgyűjtés
 
 **Felhasznáált eszközök:**
-* Raspberry Pi Zero 2 W
-* LCD2004
-* 8 csatornás relé
-* Vízpumpa
+* Raspberry Pi Zero 2 W [https://malnapc.hu/raspberry-pi-zero-2-w](https://malnapc.hu/raspberry-pi-zero-2-w)
+* Tápegység Mean Well RD-125A [https://tapegysegaruhaz.hu/spd/0856/Tapegyseg-MEAN-WELL-RD-125A](https://tapegysegaruhaz.hu/spd/0856/Tapegyseg-MEAN-WELL-RD-125A)
+* LCD2004 [https://www.aliexpress.com/item/32704155771.html](https://www.aliexpress.com/item/32704155771.html)
+* 8 csatornás relé [https://www.aliexpress.com/item/32923690159.html](https://www.aliexpress.com/item/32923690159.html)
+* Vízpumpa [https://www.aliexpress.com/item/4000912947357.html](https://www.aliexpress.com/item/4000912947357.html)
 
 **Érzékelők:**
-* Adafruit BME280
-* Adafruit BME680
-* Adafruit CCS811
-* Adafruit TSL2591
-* Adafruit STEMMA Soil sensor (x2)
+* Adafruit BME280 [https://malnapc.hu/a2652-bme280-i2c-or-spi-temperature-humidity-pressure-sensor](https://malnapc.hu/a2652-bme280-i2c-or-spi-temperature-humidity-pressure-sensor)
+* Adafruit BME680 [https://malnapc.hu/a3660-bme680-temp-humidity-pressure-and-gas-sensor](https://malnapc.hu/a3660-bme680-temp-humidity-pressure-and-gas-sensor)
+* Adafruit CCS811 (kifutott termék) [https://www.adafruit.com/product/3566](https://www.adafruit.com/product/3566)
+* Adafruit TSL2591 [https://malnapc.hu/a1980-tsl2591-high-dynamic-range-digital-light-sensor](https://malnapc.hu/a1980-tsl2591-high-dynamic-range-digital-light-sensor)
+* Adafruit STEMMA Soil sensor (x2)  [https://malnapc.hu/a4026-stemma-fold-paratartalom-mero-szenzor-i2c-kapacitiv-1835](https://malnapc.hu/a4026-stemma-fold-paratartalom-mero-szenzor-i2c-kapacitiv-1835)
 
-Igyekeztem a már rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
+Igyekeztem a már rendelkezésemre álló eszközök, anyagok és szerszámok segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
 
 **Csatolmányok jegyzéke:**
 
