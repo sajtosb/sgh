@@ -4,7 +4,13 @@ Ez a projekt egy Raspberry Pi és Python alapú "okos" üvegház megvalósítás
 
 ![Az elkészült modell.](https://github.com/sajtosb/sgh/blob/main/IMG_20230418_150241.jpg)
 
-Főbb részek:
+## **Jelen leírás kizárólag tájékoztató jellegű és nem szolgál teljes körű szakmai útmutatásként. Semmilyen felelősséget nem vállalok az esetleges személyi sérülésekért vagy vagyoni károkért, amelyek a leírás alapján elvégzett munkákból adódhatnak. A felhasználók kizárólag saját felelősségükre követhetik a leírásban foglaltakat.**
+
+![https://github.com/sajtosb/sgh/blob/main/warning.png](https://github.com/sajtosb/sgh/blob/main/warning.png)
+
+## **A villanyszerelési munkálatokat kizárólag szakképzett villanyszerelő végezheti, mivel ezek megfelelő tapasztalat hiányában baleset- és életveszélyes feladatok, valamint a használt berendezések károsodásához vezethetnek. Minden szerelési munkálat megkezdése előtt gondoskodjunk a feszültségmentesítésről, használjunk megfelelő védőfelszerelést és eszközöket, továbbá tartsuk be a hatályos érintésvédelmi és biztonsági szabályokat, előírásokat!**
+
+**Főbb részek:**
   1. Hardverek összekötése
   2. Operációs rendszer telepítése és beállítása (Raspberry Pi OS)
   3. Szenzorok és eszközök működtetése
