@@ -1,14 +1,14 @@
 # Smart Greenhouse (2022-2023)
 
-Ez a projekt egy Raspberry Pi és Python alapú "okos" üvegház megvalósítását írja le, amelyet egyetemi szakdolgozatként készítek.
+Ez a projekt egy Raspberry Pi és Python alapú "okos" üvegház megvalósítását írja le, amelyet egyetemi szakdolgozatként készítettem.
 
 ![Az elkészült modell.](https://github.com/sajtosb/sgh/blob/main/IMG_20230418_150241.jpg)
 
 Főbb részek:
-  1. Hardverek bekötése
-  2. Operációs rendszer telepítése és beállítása
+  1. Hardverek összekötése
+  2. Operációs rendszer telepítése és beállítása (Raspberry Pi OS)
   3. Szenzorok és eszközök működtetése
-  4. Adatgyűjtés
+  4. Adatgyűjtés és elemzés
 
 **Felhasznáált eszközök:**
 * Raspberry Pi Zero 2 W [https://malnapc.hu/raspberry-pi-zero-2-w](https://malnapc.hu/raspberry-pi-zero-2-w)
@@ -20,7 +20,7 @@ Főbb részek:
 **Érzékelők:**
 * Adafruit BME280 [https://malnapc.hu/a2652-bme280-i2c-or-spi-temperature-humidity-pressure-sensor](https://malnapc.hu/a2652-bme280-i2c-or-spi-temperature-humidity-pressure-sensor)
 * Adafruit BME680 [https://malnapc.hu/a3660-bme680-temp-humidity-pressure-and-gas-sensor](https://malnapc.hu/a3660-bme680-temp-humidity-pressure-and-gas-sensor)
-* Adafruit CCS811 (kifutott termék) [https://www.adafruit.com/product/3566](https://www.adafruit.com/product/3566)
+* Adafruit CCS811 _(kifutott termék)_ [https://www.adafruit.com/product/3566](https://www.adafruit.com/product/3566)
 * Adafruit TSL2591 [https://malnapc.hu/a1980-tsl2591-high-dynamic-range-digital-light-sensor](https://malnapc.hu/a1980-tsl2591-high-dynamic-range-digital-light-sensor)
 * Adafruit STEMMA Soil sensor (x2)  [https://malnapc.hu/a4026-stemma-fold-paratartalom-mero-szenzor-i2c-kapacitiv-1835](https://malnapc.hu/a4026-stemma-fold-paratartalom-mero-szenzor-i2c-kapacitiv-1835)
 
