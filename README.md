@@ -8,6 +8,19 @@ Főbb részek:
   3. Szenzorok és eszközök működtetése
   4. Adatgyűjtés
 
+**Felhasznáált eszközök:**
+* Raspberry Pi Zero 2 W
+* LCD2004
+* 8 csatornás relé
+* Vízpumpa
+
+**Érzékelők:**
+* BME280
+* BME680
+* CCS811
+* TSL2591
+* STEMMA Soil sensor (x2)
+
 Igyekeztem a már rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
 
 **Csatolmányok jegyzéke**
