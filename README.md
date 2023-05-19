@@ -8,7 +8,7 @@ Főbb részek:
   3. Szenzorok és eszközök működtetése
   4. Adatgyűjtés
 
-Igyekeztem a rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a szükséges egyéb hardver komponensek beszerzését.
+Igyekeztem a már rendelkezésemre álló eszközök segítségével kialakítani a rendszert, ezzel minimalizálva a felmerülő költségeket.
 
 **Csatolmányok jegyzéke**
 
